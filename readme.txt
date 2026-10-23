@@ -4,7 +4,7 @@ Tags: revisions, block editor, undo, restore, blocks
 Requires at least: 6.6
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 2.0.1
+Stable tag: 2.0.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,6 +67,9 @@ Not yet. Templates have revisions too, and support is planned.
 3. Finding deleted text across revisions.
 
 == Changelog ==
+
+= 2.0.2 =
+* Fix: keep the selected revision's details readable
 
 = 2.0.1 =
 * Fix: load revision content on WordPress 6.6 to 6.9
